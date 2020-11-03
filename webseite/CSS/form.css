@@ -1,0 +1,132 @@
+header
+{
+	position:	absolute;
+	top:		0px;
+	left:		0px;
+	height:		207px;
+	width:		1920px;
+	background-image: linear-gradient(to top, white 0%, #FF6FCF 40%);
+	align-items:center;
+}
+article2
+{
+	position: absolute;
+	top: 207px;
+	left:0px;
+	height: 33px; 
+	width:1920px;
+	background-image: linear-gradient(to top, darkgray 0%, #D9D9D9 50%);
+}
+nav
+{
+	position:absolute;
+	top:240px;
+	left:0px;
+	height:840px;
+	width:250px;
+	background-color:#FF9AF9;
+	font-size: 30px;
+	font-family:arial;
+}
+article
+{
+	position:absolute;
+	top:240px;
+	left:250px;
+	height:840px;
+	width:1670px;
+	background-color:#FFCAFC;
+	overflow: scroll;
+	align-items:center;
+	font-family:arial;
+
+}
+aside
+{
+	position:absolute;
+	top:240px;
+	left:1560px;
+	width:360px;
+	height:840px;
+	background-color:#FF9AF9;
+}
+img.mitte
+{
+	display:block;
+	margin: 0 auto;
+	height:207px;
+	width:auto;
+}
+
+img.produkt
+{
+display:block;
+height: 200px;
+width: 200px;
+}
+
+img.produktS
+{
+	height:400px;
+	width:auto;
+}
+
+table
+{
+	align-items:center;
+	border:1px solid black;
+}
+table.center
+{
+	align:center;
+}
+td
+{
+	border-style: solid;
+	border:1px solid black;
+	justify-content:center;
+}
+td.bild
+{
+	width:200px;
+}
+td.name
+{
+	width:300px;
+}
+td.beschreibung
+{
+	width:500px;
+}
+td.preis
+{
+	width:150px;
+}
+
+p.mittegr
+{
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+}
+p.bold
+{
+	font-weight: bold;
+}
+p.mitte
+{
+	text-align:center;
+
+}
+p.kopfzeile
+{
+	text-align: center;
+	font-size: 45px;
+	font-weight: bold;
+}
+input.einkaufswagen
+{
+	border:	ridge;
+	border-radius:	10em;
+	border-color:	green;
+}
